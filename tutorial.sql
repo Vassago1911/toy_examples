@@ -1,0 +1,2 @@
+--install dbeaver (community edition) on your system: https://dbeaver.io/download/
+--download the csv: 
